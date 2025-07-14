@@ -7,8 +7,8 @@ import time
 import requests
 
 # === CONFIGURAÇÕES ===
-TOKEN = "XXXXX"
-CHAT_ID = "XXXXXX"
+TOKEN = "XXXX"
+CHAT_ID = "XXXXX"
 FILTROS = ["toy story", "buzz", "woody"]
 URL = "https://www.olx.com.br/brasil?q=toy+story&cg=9060"
 
